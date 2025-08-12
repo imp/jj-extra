@@ -9,6 +9,7 @@ alias jjbr='jj bookmark rename'
 alias jjbs='jj bookmark set'
 alias jjbt='jj bookmark track'
 alias jjbu='jj bookmark untrack'
+alias jjsh='jj show'
 alias jjst='jj status'
 
 alias jjgpa='jj git push --all'

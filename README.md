@@ -26,6 +26,7 @@ plugins=(... jj-extra)
 | jjgpd  | `jj git push --deleted`       |
 | jjgpt  | `jj git push --tracked`       |
 | jjrbm  | `jj rebase -d "trunk()"`      |
+| jjsh   | `jj show`                     |
 | jjst   | `jj status`                   |
 
 ## See Also
