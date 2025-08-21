@@ -16,4 +16,6 @@ alias jjgpa='jj git push --all'
 alias jjgpd='jj git push --deleted'
 alias jjgpt='jj git push --tracked'
 
+alias jjnt='jj new "trunk()"'
+
 alias jjrbm='jj rebase -d "trunk()"'
