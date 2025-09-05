@@ -15,6 +15,7 @@ alias jjst='jj status'
 alias jjgpa='jj git push --all'
 alias jjgpd='jj git push --deleted'
 alias jjgpt='jj git push --tracked'
+alias jjgpN='jj git push --allow-new'
 
 alias jjnt='jj new "trunk()"'
 
