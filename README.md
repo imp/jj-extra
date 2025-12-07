@@ -12,24 +12,8 @@ plugins=(... jj-extra)
 
 | Alias  | Command                       |
 | ------ | ----------------------------- |
-| jjb    | `jj bookmark`                 |
-| jjbc   | `jj bookmark create`          |
-| jjbd   | `jj bookmark delete`          |
-| jjbf   | `jj bookmark forget`          |
-| jjbl   | `jj bookmark list`            |
-| jjbm   | `jj bookmark move`            |
-| jjbr   | `jj bookmark rename`          |
-| jjbs   | `jj bookmark set`             |
-| jjbt   | `jj bookmark track`           |
-| jjbu   | `jj bookmark untrack`         |
-| jjgpa  | `jj git push --all`           |
-| jjgpd  | `jj git push --deleted`       |
-| jjgpt  | `jj git push --tracked`       |
 | jjgpN  | `jj git push --allow-new`     |
-| jjnt   | `jj new "trunk()"`            |
-| jjrbm  | `jj rebase -d "trunk()"`      |
 | jjsh   | `jj show`                     |
-| jjst   | `jj status`                   |
 
 ## See Also
 
